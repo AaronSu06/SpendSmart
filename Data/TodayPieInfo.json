@@ -1,0 +1,11 @@
+[
+  {
+    "username": "Test",
+    "pieLabel": {
+      "Living": 100.0,
+      "Transportation": 500.0,
+      "Recreational": 100.0
+    },
+    "date": "2024-01-24"
+  }
+]
